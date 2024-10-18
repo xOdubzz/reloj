@@ -1,0 +1,28 @@
+body{
+    background-color:black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:darkgreen;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+
+h1{
+    text-align: center;
+    width: 100%;
+    height: 100px;
+
+}
+
+#reloj{
+
+    position: absolute;
+    top: 200px;
+    text-align: center;
+    border-style: outset;
+    border-radius: 25px;
+    border-width: 5px;
+    width: 50%;
+    font-size:xx-large;
+
+}
